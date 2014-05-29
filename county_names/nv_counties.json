@@ -1,0 +1,19 @@
+{"counties":[
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Churchill", "cty_fips": "32001"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Clark", "cty_fips": "32003"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Douglas", "cty_fips": "32005"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Elko", "cty_fips": "32007"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Esmeralda", "cty_fips": "32009"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Eureka", "cty_fips": "32011"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Humboldt", "cty_fips": "32013"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Lander", "cty_fips": "32015"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Lincoln", "cty_fips": "32017"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Lyon", "cty_fips": "32019"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Mineral", "cty_fips": "32021"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Nye", "cty_fips": "32023"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Pershing", "cty_fips": "32027"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Storey", "cty_fips": "32029"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Washoe", "cty_fips": "32031"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "White Pine", "cty_fips": "32033"}, 
+{"statename": "Nevada", "stateabbr": "NV", "state_fips": "32", "cty_name": "Carson City", "cty_fips": "32510"}
+]}

@@ -1,0 +1,17 @@
+{"counties":[
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Apache", "cty_fips": "04001"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Cochise", "cty_fips": "04003"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Coconino", "cty_fips": "04005"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Gila", "cty_fips": "04007"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Graham", "cty_fips": "04009"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Greenlee", "cty_fips": "04011"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "La Paz", "cty_fips": "04012"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Maricopa", "cty_fips": "04013"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Mohave", "cty_fips": "04015"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Navajo", "cty_fips": "04017"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Pima", "cty_fips": "04019"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Pinal", "cty_fips": "04021"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Santa Cruz", "cty_fips": "04023"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Yavapai", "cty_fips": "04025"}, 
+{"statename": "Arizona", "stateabbr": "AZ", "state_fips": "04", "cty_name": "Yuma", "cty_fips": "04027"}
+]}

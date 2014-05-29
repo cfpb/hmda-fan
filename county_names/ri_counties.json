@@ -1,0 +1,7 @@
+{"counties":[
+{"statename": "Rhode Island", "stateabbr": "RI", "state_fips": "44", "cty_name": "Bristol", "cty_fips": "44001"}, 
+{"statename": "Rhode Island", "stateabbr": "RI", "state_fips": "44", "cty_name": "Kent", "cty_fips": "44003"}, 
+{"statename": "Rhode Island", "stateabbr": "RI", "state_fips": "44", "cty_name": "Newport", "cty_fips": "44005"}, 
+{"statename": "Rhode Island", "stateabbr": "RI", "state_fips": "44", "cty_name": "Providence", "cty_fips": "44007"}, 
+{"statename": "Rhode Island", "stateabbr": "RI", "state_fips": "44", "cty_name": "Washington", "cty_fips": "44009"}
+]}

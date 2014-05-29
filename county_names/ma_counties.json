@@ -1,0 +1,16 @@
+{"counties":[
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Barnstable", "cty_fips": "25001"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Berkshire", "cty_fips": "25003"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Bristol", "cty_fips": "25005"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Dukes", "cty_fips": "25007"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Essex", "cty_fips": "25009"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Franklin", "cty_fips": "25011"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Hampden", "cty_fips": "25013"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Hampshire", "cty_fips": "25015"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Middlesex", "cty_fips": "25017"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Nantucket", "cty_fips": "25019"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Norfolk", "cty_fips": "25021"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Plymouth", "cty_fips": "25023"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Suffolk", "cty_fips": "25025"}, 
+{"statename": "Massachusetts", "stateabbr": "MA", "state_fips": "25", "cty_name": "Worcester", "cty_fips": "25027"}
+]}

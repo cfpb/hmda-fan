@@ -1,0 +1,7 @@
+{"counties":[
+{"statename": "Hawaii", "stateabbr": "HI", "state_fips": "15", "cty_name": "Hawaii", "cty_fips": "15001"}, 
+{"statename": "Hawaii", "stateabbr": "HI", "state_fips": "15", "cty_name": "Honolulu", "cty_fips": "15003"}, 
+{"statename": "Hawaii", "stateabbr": "HI", "state_fips": "15", "cty_name": "Kalawao", "cty_fips": "15005"}, 
+{"statename": "Hawaii", "stateabbr": "HI", "state_fips": "15", "cty_name": "Kauai", "cty_fips": "15007"}, 
+{"statename": "Hawaii", "stateabbr": "HI", "state_fips": "15", "cty_name": "Maui", "cty_fips": "15009"}
+]}

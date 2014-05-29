@@ -1,0 +1,16 @@
+{"counties":[
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Addison", "cty_fips": "50001"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Bennington", "cty_fips": "50003"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Caledonia", "cty_fips": "50005"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Chittenden", "cty_fips": "50007"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Essex", "cty_fips": "50009"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Franklin", "cty_fips": "50011"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Grand Isle", "cty_fips": "50013"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Lamoille", "cty_fips": "50015"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Orange", "cty_fips": "50017"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Orleans", "cty_fips": "50019"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Rutland", "cty_fips": "50021"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Washington", "cty_fips": "50023"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Windham", "cty_fips": "50025"}, 
+{"statename": "Vermont", "stateabbr": "VT", "state_fips": "50", "cty_name": "Windsor", "cty_fips": "50027"}
+]}

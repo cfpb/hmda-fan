@@ -1,0 +1,18 @@
+{"counties":[
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Androscoggin", "cty_fips": "23001"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Aroostook", "cty_fips": "23003"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Cumberland", "cty_fips": "23005"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Franklin", "cty_fips": "23007"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Hancock", "cty_fips": "23009"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Kennebec", "cty_fips": "23011"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Knox", "cty_fips": "23013"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Lincoln", "cty_fips": "23015"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Oxford", "cty_fips": "23017"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Penobscot", "cty_fips": "23019"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Piscataquis", "cty_fips": "23021"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Sagadahoc", "cty_fips": "23023"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Somerset", "cty_fips": "23025"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Waldo", "cty_fips": "23027"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "Washington", "cty_fips": "23029"}, 
+{"statename": "Maine", "stateabbr": "ME", "state_fips": "23", "cty_name": "York", "cty_fips": "23031"}
+]}

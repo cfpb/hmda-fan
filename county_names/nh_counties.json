@@ -1,0 +1,12 @@
+{"counties":[
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Belknap", "cty_fips": "33001"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Carroll", "cty_fips": "33003"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Cheshire", "cty_fips": "33005"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Coos", "cty_fips": "33007"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Grafton", "cty_fips": "33009"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Hillsborough", "cty_fips": "33011"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Merrimack", "cty_fips": "33013"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Rockingham", "cty_fips": "33015"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Strafford", "cty_fips": "33017"}, 
+{"statename": "New Hampshire", "stateabbr": "NH", "state_fips": "33", "cty_name": "Sullivan", "cty_fips": "33019"}
+]}

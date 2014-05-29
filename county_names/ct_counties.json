@@ -1,0 +1,10 @@
+{"counties":[
+{"statename": "Connecticut", "stateabbr": "CT", "state_fips": "09", "cty_name": "Fairfield", "cty_fips": "09001"}, 
+{"statename": "Connecticut", "stateabbr": "CT", "state_fips": "09", "cty_name": "Hartford", "cty_fips": "09003"}, 
+{"statename": "Connecticut", "stateabbr": "CT", "state_fips": "09", "cty_name": "Litchfield", "cty_fips": "09005"}, 
+{"statename": "Connecticut", "stateabbr": "CT", "state_fips": "09", "cty_name": "Middlesex", "cty_fips": "09007"}, 
+{"statename": "Connecticut", "stateabbr": "CT", "state_fips": "09", "cty_name": "New Haven", "cty_fips": "09009"}, 
+{"statename": "Connecticut", "stateabbr": "CT", "state_fips": "09", "cty_name": "New London", "cty_fips": "09011"}, 
+{"statename": "Connecticut", "stateabbr": "CT", "state_fips": "09", "cty_name": "Tolland", "cty_fips": "09013"}, 
+{"statename": "Connecticut", "stateabbr": "CT", "state_fips": "09", "cty_name": "Windham", "cty_fips": "09015"}
+]}

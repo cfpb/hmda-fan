@@ -1,0 +1,23 @@
+{"counties":[
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Atlantic", "cty_fips": "34001"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Bergen", "cty_fips": "34003"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Burlington", "cty_fips": "34005"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Camden", "cty_fips": "34007"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Cape May", "cty_fips": "34009"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Cumberland", "cty_fips": "34011"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Essex", "cty_fips": "34013"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Gloucester", "cty_fips": "34015"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Hudson", "cty_fips": "34017"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Hunterdon", "cty_fips": "34019"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Mercer", "cty_fips": "34021"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Middlesex", "cty_fips": "34023"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Monmouth", "cty_fips": "34025"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Morris", "cty_fips": "34027"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Ocean", "cty_fips": "34029"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Passaic", "cty_fips": "34031"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Salem", "cty_fips": "34033"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Somerset", "cty_fips": "34035"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Sussex", "cty_fips": "34037"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Union", "cty_fips": "34039"}, 
+{"statename": "New Jersey", "stateabbr": "NJ", "state_fips": "34", "cty_name": "Warren", "cty_fips": "34041"}
+]}
